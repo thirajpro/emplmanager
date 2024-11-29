@@ -12,7 +12,6 @@ A simple **Employee Management System** built with **Spring Boot** to manage emp
 - **Spring Boot** for the backend framework.
 - **Spring Data JPA** for ORM.
 - **MySQL** for database storage.
-- **Lombok** for reducing boilerplate code.
 
 ## Getting Started
 1. Clone the repository:
